@@ -47,8 +47,6 @@ We used the [COCO English-Malayalam Translation Corpus](https://github.com/narVi
 
 ---
 
-> 🧪 This project was just a **learning sandbox** to understand how to fine-tune LLMs. It helped me practice the full loop — from data prep to adapter training and evaluation — in a low-risk, fast way.
-
 ## 🧠 What I Learned
 
 - LoRA and QLoRA make fine-tuning accessible even with limited hardware
@@ -57,4 +55,7 @@ We used the [COCO English-Malayalam Translation Corpus](https://github.com/narVi
 - Tokenization, preprocessing, and adapter merging are crucial steps in custom LLM workflows
 
 ---
+
+> 🧪 This project was just a **learning sandbox** to understand how to fine-tune LLMs. It helped me practice the full loop — from data prep to adapter training and evaluation — in a low-risk, fast way.
+
 
